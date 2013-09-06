@@ -1,0 +1,58 @@
+{
+  "fonts" : {
+    "path"          : "/fonts/"
+  , "add"           : [
+      ["Ubuntu", ""  , "Ubuntu-C.php"]
+    , ["Ubuntu", "B" , "Ubuntu-B.php"]
+    , ["Ubuntu", "BI", "Ubuntu-BI.php"]
+    , ["Ubuntu", "R" , "Ubuntu-R.php"]
+    , ["Ubuntu", "RI", "Ubuntu-RI.php"]
+    , ["Ubuntu", "L" , "Ubuntu-L.php"]
+    , ["Ubuntu", "LI", "Ubuntu-LI.php"]
+    ]
+  }
+, "header1" : {
+    "color"         : "#00cccc"
+  , "lineWidth"     : 0.5
+  , "font"          : ["Ubuntu", "B", 10]
+  , "charSpaceing"  : 2
+  }
+, "header2" : {
+    "color"         : "#23b8dc"
+  , "font"          : ["Ubuntu", "B", 13]
+  }
+, "space"   : {
+    "drawcolor"     : "#aea79f"
+  , "lineWidth"     : 1
+  }
+, "title"   : {
+    "color"         : "#000"
+  , "font"          : ["Ubuntu", "B", 10]
+  , "charSpaceing"  : 0
+  }
+, "address" : {
+    "textcolor"     : "#aea79f"
+  , "font"          : ["Ubuntu", "", 12]
+  }
+, "text"    : {
+    "textcolor"     : "#000"
+  , "charSpaceing"  : 0
+  , "font"          : ["Ubuntu", "", 12]
+  , "lineWidth"     : 0.5
+  }
+, "table"   : {
+    "color"         : "#000"
+  , "font"          : ["Ubuntu", "", 12]
+  }
+, "table_extra"   : {
+    "font"          : ["Ubuntu", "B", 12]
+  }
+, "footer"  : {
+    "color"         : "#aea79f"
+  , "font"          : ["Ubuntu", "B", 10]
+  }
+, "marks"   : {
+    "drawcolor"     : "#000"
+  }
+}
+
